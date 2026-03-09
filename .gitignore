@@ -1,0 +1,15 @@
+### FloorHTM ###
+dist/
+ignored.*
+*.ignored*
+
+### Node ###
+node_modules/
+package-lock.json
+
+### Visual Studio Code ###
+.vscode/
+
+# ADD YOUR IDE FILES HERE
+# EVEN IF YOU THINK THEY ARE GLOBAL, PEOPLE WILL FOREVER HATE THOSE SPECIFIC SETTINGS AND RUN CONFIGURATIONS
+# I AM SPARING YOUR LIFE!!!

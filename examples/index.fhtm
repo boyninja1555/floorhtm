@@ -1,0 +1,4 @@
+<script type="server">
+    client.year = new Date().getFullYear()
+</script>
+<h1>The year is {{%year%}}</h1>
